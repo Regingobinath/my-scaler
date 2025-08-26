@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd65ac50-e73f-416b-baa4-00844ae70218" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../java-learning/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/java-8-learning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/Agorthms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/MethodRefrence/MethodReference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/Stream/CollectorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/Stream/DoubleStreamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/Stream/IntStreamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/Stream/IntermediateOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/Stream/TerminalOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/TestingClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/algorithms/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/algorithms/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/algorithms/SortByProximity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/fuctionalinterface/ConsumerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/fuctionalinterface/FuntionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/fuctionalinterface/PredicateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/fuctionalinterface/SuplierTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/practice/Module3Cl4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/practice/StringReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/practice/StringReverseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/practice/SumBinary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/practice/TwoDArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/practice/TwoDArrayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/stream-api.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/thread/Executor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/thread/note-thread-doc.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-learning/src/thread/thread-notes.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="31j6glGU5VYkwoN6aWonJJ5xWM5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Local/Repositories/learning/scaler-dsa/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Local\Repositories\learning\scaler-dsa\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd65ac50-e73f-416b-baa4-00844ae70218" name="Changes" comment="" />
+      <created>1756025248796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756025248796</updated>
+    </task>
+    <servers />
+  </component>
+</project>
