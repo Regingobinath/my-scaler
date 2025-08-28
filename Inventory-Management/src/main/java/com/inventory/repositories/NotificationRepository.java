@@ -10,8 +10,8 @@ import java.util.List;
 import java.util.Optional;
 
 @Repository
-public interface NotificationRepository extends JpaRepository<Notification, Long> {
-    public List<Notification> findAllByProductId(long productId);
+public interface NotificationRepository extends JpaRepository<Notification, Integer> {
+    public List<Notification> findAllByProductId(int productId);
     List<Notification> findByProduct(Product product);
     public void delete(Notification notification);
     public Optional<Notification> findById(long id);

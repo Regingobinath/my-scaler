@@ -9,6 +9,6 @@ import org.springframework.stereotype.Repository;
 import java.util.Optional;
 
 @Repository
-public interface DeliveryHubRepository extends JpaRepository<DeliveryHub, Long> {
+public interface DeliveryHubRepository extends JpaRepository<DeliveryHub, Integer> {
     public Optional<DeliveryHub> findByAddress_ZipCode(String zipCode);
 }

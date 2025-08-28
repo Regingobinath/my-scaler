@@ -10,8 +10,9 @@ import java.util.List;
 import java.util.Optional;
 
 @Repository
-public interface InventoryRepository extends JpaRepository<Inventory, Long> {
-    Optional<Inventory> findByProductId(long productId);
-    void deleteByProductId(long productId);
+public interface InventoryRepository extends JpaRepository<Inventory, Integer> {
+    Optional<Inventory> findByProductId(int productId);
+    List<Inventory> findAllByProductIdIn(List<Integer> productIds);
+    void deleteByProductId(Integer productId);
     Optional<Inventory> findByProduct(Product product);
 }

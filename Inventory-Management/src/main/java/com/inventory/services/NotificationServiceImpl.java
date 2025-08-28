@@ -65,6 +65,6 @@ public class NotificationServiceImpl implements NotificationService{
         if(notification.get().getUser().getId() != userId) {
             throw new UnAuthorizedException("User UnAuthorized");
         }
-        this.notificationRepository.deleteById( (long) notificationId);
+        this.notificationRepository.deleteById(notificationId);
     }
 }

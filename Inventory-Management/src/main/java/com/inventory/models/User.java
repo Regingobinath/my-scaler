@@ -15,8 +15,8 @@ public class User extends BaseModel{
     private String email;
     @Enumerated(EnumType.STRING)
     private UserType userType;
-    @OneToMany
+    @OneToMany( mappedBy = "user")
     private List<Address> addresses;
-    @OneToMany
+    @OneToMany( mappedBy = "user")
     private List<Order> orders;
 }

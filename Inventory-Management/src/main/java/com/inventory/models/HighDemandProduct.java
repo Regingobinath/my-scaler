@@ -1,18 +1,16 @@
 package com.inventory.models;
 
 import jakarta.persistence.Entity;
-import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToOne;
-import jakarta.persistence.Table;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
-@EqualsAndHashCode(callSuper = true)
 @Data
+@EqualsAndHashCode(callSuper = true)
 @Entity
-@Table(name="inv_inventory")
-public class Inventory extends BaseModel{
+public class HighDemandProduct extends BaseModel{
     @OneToOne
     private Product product;
-    private int quantity;
+    private int maxQuantity;
 }
+

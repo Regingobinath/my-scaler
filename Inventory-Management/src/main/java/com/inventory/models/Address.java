@@ -1,10 +1,15 @@
 package com.inventory.models;
 
 import jakarta.persistence.Entity;
+import jakarta.persistence.ManyToOne;
+import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 import lombok.Data;
+import lombok.EqualsAndHashCode;
+
 
 @Data
+@EqualsAndHashCode(callSuper = true)
 @Entity
 @Table(name="inv_address")
 public class Address extends BaseModel{
@@ -18,4 +23,6 @@ public class Address extends BaseModel{
     private String zipCode;
     private double latitude;
     private double longitude;
+    @ManyToOne
+    private User user;
 }
