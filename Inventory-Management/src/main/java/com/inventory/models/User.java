@@ -19,4 +19,6 @@ public class User extends BaseModel{
     private List<Address> addresses;
     @OneToMany( mappedBy = "user")
     private List<Order> orders;
+    @OneToMany(fetch = FetchType.LAZY)
+    private List<Preference> preferences;
 }
